@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>js如何读取json文件</title>
+<script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+ <script type="text/javascript">
+        $(function(){
+            $("#btn").click(function(){
+                $.getJSON("index.jsonson",function(data){       
+                    var $jsontip = $("#jsonTip");    
+                    var strHtml = "123";//存储数据的变量
+
+                    $jsontip.empty();//清空内容
+
+                    $.each(data,function(infoIndex,info){
+                        strHtml += "姓名："+info["name"]+"<br>";
+
+                        strHtml += "性别："+info["sex"]+"<br>";
+
+                        strHtml += "邮箱："+info["email"]+"<br>";
+
+                        strHtml += "<hr>"
+
+                    })
+
+                    $jsontip.html(strHtml);//显示处理后的数据
+
+                })
+
+            })
+
+ 
+
+        })
+
+    </script>
+
+</head>
+
+
+
+<body>
+<div id="divframe">
+
+    <div class="loadTitle">
+
+        <input type="button" value="获取数据" id="btn"/>
+
+    </div>
+
+    <div id="jsonTip">
+
+    </div>
+
+</div>
+</body>
+
+
+
+</html>
