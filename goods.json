@@ -32,7 +32,7 @@
 	 "url":"https://item.jd.com/100038430060.html",
    "price":1599,
    "sales":12355,
-    "selfSupport":true,
+    "selfSupport":false,
    "brand":"oppo"
     },		
  {
@@ -52,5 +52,41 @@
    "sales":7111,
     "selfSupport":true,
    "brand":"Apple"
-    }	
+    },	
+ {
+"pic":"images/goods007.jpg",
+   "title":"OPPO 一加 11 16GB+256GB 一瞬青 第二代骁龙 8 哈苏影像拍照 2K + 120Hz",
+	 "url":"https://item.jd.com/100040195622.html",
+   "price":4399,
+   "sales":21540,
+    "selfSupport":true,
+   "brand":"oppo"
+    },	
+ {
+"pic":"images/goods008.jpg",
+   "title":"Apple iPhone 13 (A2634) 128GB 星光色 支持移动联通电信5G",
+	 "url":"https://item.jd.com/100026809200.html",
+   "price":4909,
+   "sales":31250,
+    "selfSupport":true,
+   "brand":"Apple"
+    },	
+ {
+"pic":"images/goods009.jpg",
+   "title":"Apple iPhone 14 Pro Max (A2896) 256GB 暗紫色 支持移动联通电信5G",
+	 "url":"https://item.jd.com/100058343869.html",
+   "price":8699,
+   "sales":7214,
+    "selfSupport":true,
+   "brand":"Apple"
+    },	
+ {
+"pic":"images/goods010.jpg",
+   "title":"Apple iPhone 14 Pro Max (A2896) 256GB 暗紫色 支持移动联通电信5G",
+	 "url":"https://item.jd.com/100038004359.html",
+   "price":9899,
+   "sales":560,
+    "selfSupport":true,
+   "brand":"Apple"
+    }		
 ]
