@@ -1,1 +1,18 @@
-
+[  
+  {
+   "pic":"images/goods001.jpg",
+   "title":"OPPO K10x 极夜 8GB+128GB 67W超级闪充 5000mAh长续航 120Hz高帧屏",
+   "price":1299,
+   "sales":3230,
+	 "selfSupport":true,
+   "brand":"oppo"
+    },
+   {
+   "pic":"images/goods002.jpg",
+   "title":"荣耀Play7T 6000mAh 长续航 8.27mm轻薄机身 6.74英寸高刷护眼屏",
+   "price":999,
+   "sales":1231,
+	 "selfSupport":false,
+   "brand":"荣耀"
+    }
+]
