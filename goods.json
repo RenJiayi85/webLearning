@@ -2,17 +2,55 @@
   {
    "pic":"images/goods001.jpg",
    "title":"OPPO K10x 极夜 8GB+128GB 67W超级闪充 5000mAh长续航 120Hz高帧屏",
+"url":"https://item.jd.com/100037311057.html",
    "price":1299,
    "sales":3230,
-	 "selfSupport":true,
+   "selfSupport":true,
    "brand":"oppo"
     },
    {
    "pic":"images/goods002.jpg",
    "title":"荣耀Play7T 6000mAh 长续航 8.27mm轻薄机身 6.74英寸高刷护眼屏",
+"url":"https://item.jd.com/100047612060.html",	   
    "price":999,
    "sales":1231,
-	 "selfSupport":false,
+    "selfSupport":false,
    "brand":"荣耀"
-    }
+    },
+ {
+"pic":"images/goods003.jpg",
+   "title":"荣耀X40 120Hz OLED硬核曲屏 5100mAh 快充大电池 7.9mm轻薄设计 5G手机",
+	 "url":"https://item.jd.com/100038222805.html",
+   "price":1299,
+   "sales":855,
+    "selfSupport":true,
+   "brand":"荣耀"
+    },	
+ {
+"pic":"images/goods004.jpg",
+   "title":"OPPO 一加 Ace 竞速版 12GB+256GB光速蓝享OPPO官方售后",
+	 "url":"https://item.jd.com/100038430060.html",
+   "price":1599,
+   "sales":12355,
+    "selfSupport":true,
+   "brand":"oppo"
+    },		
+ {
+"pic":"images/goods005.jpg",
+   "title":"荣耀70 Pro IMX800三主摄 旗舰芯片 100W超级快充 5G手机 12GB+256GB 流光水晶",
+	 "url":"https://item.jd.com/100039740906.html",
+   "price":2259,
+   "sales":736,
+    "selfSupport":false,
+   "brand":"荣耀"
+    },	
+ {
+"pic":"images/goods006.jpg",
+   "title":"Apple iPhone 14 (A2884) 128GB 星光色 支持移动联通电信5G 双卡双待手机",
+	 "url":"https://item.jd.com/100038004353.html",
+   "price":5399,
+   "sales":7111,
+    "selfSupport":true,
+   "brand":"Apple"
+    }	
 ]
