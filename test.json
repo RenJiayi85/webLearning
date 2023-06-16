@@ -1,222 +1,305 @@
-[
-    {
-        "test_id": 202300001,
-        "question": "世界上第一台计算机的名称是",
-        "option_list": [
-            {
-                "option": "ENIAC"
-            },
-            {
-                "option": "APPLE"
-            },
-            {
-                "option": "UNIVAC-I"
-            },
-            {
-                "option": "IBM-7000"
-            }
-        ],
-        "answer": "ENIAC",
-        "grade": 1
-    },
-    {
-        "test_id": 202300002,
-        "question": "计算机从其诞生至今已经经历了4个时代，这种划分时代的原则是根据",
-        "option_list": [
-            {
-                "option": "计算机的存储量"
-            },
-            {
-                "option": "计算机的运算速度"
-            },
-            {
-                "option": "程序设计语言"
-            },
-            {
-                "option": "计算机所采用的电子元件"
-            }
-        ],
-        "answer": "计算机所采用的电子元件",
-        "grade": 1
-    },
-    {
-        "test_id": 202300003,
-        "question": "第2代电子计算机使用的电子元件是",
-        "option_list": [
-            {
-                "option": "晶体管"
-            },
-            {
-                "option": "电子管"
-            },
-            {
-                "option": "中、小规模集成电路"
-            },
-            {
-                "option": "大规模和超大规模集成电路"
-            }
-        ],
-        "answer": "晶体管",
-        "grade": 1
-    },
-    {
-        "test_id": 202300004,
-        "question": "第3代电子计算机使用的电子元件是",
-        "option_list": [
-            {
-                "option": "晶体管"
-            },
-            {
-                "option": "电子管"
-            },
-            {
-                "option": "中、小规模集成电路"
-            },
-            {
-                "option": "大规模和超大规模集成电路"
-            }
-        ],
-        "answer": "中、小规模集成电路",
-        "grade": 2
-    },
-    {
-        "test_id": 202300005,
-        "question": "CAM表示为",
-        "option_list": [
-            {
-                "option": "计算机辅助设计"
-            },
-            {
-                "option": "计算机辅助制造"
-            },
-            {
-                "option": "计算机辅助教学"
-            },
-            {
-                "option": "计算机辅助模拟"
-            }
-        ],
-        "answer": "计算机辅助制造",
-        "grade": 3
-    },
-    {
-        "test_id": 202300006,
-        "question": "计算机系统主要由",
-        "option_list": [
-            {
-                "option": "主机和显示器组成"
-            },
-            {
-                "option": "微处利器和软件组成"
-            },
-            {
-                "option": "硬件系统和软件系统组成"
-            },
-            {
-                "option": "硬件系统和应用软件组成"
-            }
-        ],
-        "answer": "硬件系统和软件系统组成",
-        "grade": 2
-    },
-    {
-        "test_id": 202300007,
-        "question": "微型计算机硬件系统最核心的部件是",
-        "option_list": [
-            {
-                "option": "主板"
-            },
-            {
-                "option": "CPU"
-            },
-            {
-                "option": "内存储器"
-            },
-            {
-                "option": "I/O设备"
-            }
-        ],
-        "answer": "CPU",
-        "grade": 2
-    },
-    {
-        "test_id": 202300008,
-        "question": "中央处理器(CPU)主要由什么组成",
-        "option_list": [
-            {
-                "option": "控制器和内存"
-            },
-            {
-                "option": "运算器和控制器"
-            },
-            {
-                "option": "控制器和寄存器"
-            },
-            {
-                "option": "运算器和内存"
-            }
-        ],
-        "answer": "运算器和控制器",
-        "grade": 2
-    },
-    {
-        "test_id": 202300009,
-        "question": "下列4种存储器中，存取速度最快的是",
-        "option_list": [
-            {
-                "option": "U盘"
-            },
-            {
-                "option": "光盘"
-            },
-            {
-                "option": "硬盘"
-            },
-            {
-                "option": "内存储器"
-            }
-        ],
-        "answer": "内存储器",
-        "grade": 1
-    },
-    {
-        "test_id": 202300010,
-        "question": "计算机工作时，内存储器用来存储",
-        "option_list": [
-            {
-                "option": "数据和信号"
-            },
-            {
-                "option": "程序和指令"
-            },
-            {
-                "option": "ASCII码和汉字"
-            },
-            {
-                "option": "程序和数据"
-            }
-        ],
-        "answer": "程序和数据",
-        "grade": 2
-    },
-    {
-        "test_id": 202300011,
-        "question": "SRAM存储器是",
-        "option_list": [
-            {
-                "option": "静态随机存储器"
-            },
-            {
-                "option": "静态只读存储器"
-            },
-            {
-                "option": "动态随机存储器"
-            },
-            {
-                "option": "动态只读存储器"
-            }
-        ],
-        "answer": "静态随机存储器",
-        "grade": 3
-    }
+[{
+		"test_id": 202300001,
+		"question": "世界上第一台计算机的名称是",
+		"option_list": [{
+				"option": "ENIAC"
+			},
+			{
+				"option": "APPLE"
+			},
+			{
+				"option": "UNIVAC-I"
+			},
+			{
+				"option": "IBM-7000"
+			}
+		],
+		"answer": "ENIAC",
+		"grade": 1
+	},
+	{
+		"test_id": 202300002,
+		"question": "计算机从其诞生至今已经经历了4个时代，这种划分时代的原则是根据",
+		"option_list": [{
+				"option": "计算机的存储量"
+			},
+			{
+				"option": "计算机的运算速度"
+			},
+			{
+				"option": "程序设计语言"
+			},
+			{
+				"option": "计算机所采用的电子元件"
+			}
+		],
+		"answer": "计算机所采用的电子元件",
+		"grade": 1
+	},
+	{
+		"test_id": 202300003,
+		"question": "第2代电子计算机使用的电子元件是",
+		"option_list": [{
+				"option": "晶体管"
+			},
+			{
+				"option": "电子管"
+			},
+			{
+				"option": "中、小规模集成电路"
+			},
+			{
+				"option": "大规模和超大规模集成电路"
+			}
+		],
+		"answer": "晶体管",
+		"grade": 1
+	},
+	{
+		"test_id": 202300004,
+		"question": "第3代电子计算机使用的电子元件是",
+		"option_list": [{
+				"option": "晶体管"
+			},
+			{
+				"option": "电子管"
+			},
+			{
+				"option": "中、小规模集成电路"
+			},
+			{
+				"option": "大规模和超大规模集成电路"
+			}
+		],
+		"answer": "中、小规模集成电路",
+		"grade": 2
+	},
+	{
+		"test_id": 202300005,
+		"question": "CAM表示为",
+		"option_list": [{
+				"option": "计算机辅助设计"
+			},
+			{
+				"option": "计算机辅助制造"
+			},
+			{
+				"option": "计算机辅助教学"
+			},
+			{
+				"option": "计算机辅助模拟"
+			}
+		],
+		"answer": "计算机辅助制造",
+		"grade": 3
+	},
+	{
+		"test_id": 202300006,
+		"question": "计算机系统主要由",
+		"option_list": [{
+				"option": "主机和显示器组成"
+			},
+			{
+				"option": "微处利器和软件组成"
+			},
+			{
+				"option": "硬件系统和软件系统组成"
+			},
+			{
+				"option": "硬件系统和应用软件组成"
+			}
+		],
+		"answer": "硬件系统和软件系统组成",
+		"grade": 2
+	},
+	{
+		"test_id": 202300007,
+		"question": "微型计算机硬件系统最核心的部件是",
+		"option_list": [{
+				"option": "主板"
+			},
+			{
+				"option": "CPU"
+			},
+			{
+				"option": "内存储器"
+			},
+			{
+				"option": "I/O设备"
+			}
+		],
+		"answer": "CPU",
+		"grade": 2
+	},
+	{
+		"test_id": 202300008,
+		"question": "中央处理器(CPU)主要由什么组成",
+		"option_list": [{
+				"option": "控制器和内存"
+			},
+			{
+				"option": "运算器和控制器"
+			},
+			{
+				"option": "控制器和寄存器"
+			},
+			{
+				"option": "运算器和内存"
+			}
+		],
+		"answer": "运算器和控制器",
+		"grade": 2
+	},
+	{
+		"test_id": 202300009,
+		"question": "下列4种存储器中，存取速度最快的是",
+		"option_list": [{
+				"option": "U盘"
+			},
+			{
+				"option": "光盘"
+			},
+			{
+				"option": "硬盘"
+			},
+			{
+				"option": "内存储器"
+			}
+		],
+		"answer": "内存储器",
+		"grade": 1
+	},
+	{
+		"test_id": 202300010,
+		"question": "计算机工作时，内存储器用来存储",
+		"option_list": [{
+				"option": "数据和信号"
+			},
+			{
+				"option": "程序和指令"
+			},
+			{
+				"option": "ASCII码和汉字"
+			},
+			{
+				"option": "程序和数据"
+			}
+		],
+		"answer": "程序和数据",
+		"grade": 2
+	},
+	{
+		"test_id": 202300011,
+		"question": "SRAM存储器是",
+		"option_list": [{
+				"option": "静态随机存储器"
+			},
+			{
+				"option": "静态只读存储器"
+			},
+			{
+				"option": "动态随机存储器"
+			},
+			{
+				"option": "动态只读存储器"
+			}
+		],
+		"answer": "静态随机存储器",
+		"grade": 3
+	},
+	{
+		"test_id": 202300012,
+		"question": "下面不属于系统软件的是",
+		"option_list": [{
+				"option": "DOS"
+			},
+			{
+				"option": "Windows 10"
+			},
+			{
+				"option": "UNIX"
+			},
+			{
+				"option": "Word2016"
+			}
+		],
+		"answer": "Word2016",
+		"grade": 1
+	},
+	{
+		"test_id": 202300013,
+		"question": "在计算机内部能够直接执行的程序语言是",
+		"option_list": [{
+				"option": "数据库语言"
+			},
+			{
+				"option": "高级语言"
+			},
+			{
+				"option": "机器语言"
+			},
+			{
+				"option": "汇编语言"
+			}
+		],
+		"answer": "机器语言",
+		"grade": 1
+	},
+	{
+		"test_id": 202300014,
+		"question": "用户用计算机高级语言编写的程序，通常称为",
+		"option_list": [{
+				"option": "汇编程序"
+			},
+			{
+				"option": "目标程序"
+			},
+			{
+				"option": "源程序"
+			},
+			{
+				"option": "二进制代码程序"
+			}
+		],
+		"answer": "源程序",
+		"grade": 3
+	},
+	{
+		"test_id": 202300015,
+		"question": "将高级语言编写的程序翻译成机器语言程序，所采用的两种翻译方式是",
+		"option_list": [{
+				"option": "编译和解释"
+			},
+			{
+				"option": "编译和汇编"
+			},
+			{
+				"option": "编译和连接"
+			},
+			{
+				"option": "解释和汇编"
+			}
+		],
+		"answer": "编译和解释",
+		"grade": 2
+	},
+	{
+		"test_id": 202300016,
+		"question": "在ENIAC的研制过程中，由美籍匈牙利数学家总结并提出了非常重要的改进意见，他是",
+		"option_list": [{
+				"option": "冯·诺依曼"
+			},
+			{
+				"option": "阿兰·图灵"
+			},
+			{
+				"option": "古德·摩尔"
+			},
+			{
+				"option": "以上都不是"
+			}
+		],
+		"answer": "冯·诺依曼",
+		"grade": 1
+	}
 ]
