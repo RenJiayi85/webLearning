@@ -138,5 +138,85 @@
         ],
         "answer": "CPU",
         "grade": 2
+    },
+    {
+        "test_id": 202300008,
+        "question": "中央处理器(CPU)主要由什么组成",
+        "option_list": [
+            {
+                "option": "控制器和内存"
+            },
+            {
+                "option": "运算器和控制器"
+            },
+            {
+                "option": "控制器和寄存器"
+            },
+            {
+                "option": "运算器和内存"
+            }
+        ],
+        "answer": "运算器和控制器",
+        "grade": 2
+    },
+    {
+        "test_id": 202300009,
+        "question": "下列4种存储器中，存取速度最快的是",
+        "option_list": [
+            {
+                "option": "U盘"
+            },
+            {
+                "option": "光盘"
+            },
+            {
+                "option": "硬盘"
+            },
+            {
+                "option": "内存储器"
+            }
+        ],
+        "answer": "内存储器",
+        "grade": 1
+    },
+    {
+        "test_id": 202300010,
+        "question": "计算机工作时，内存储器用来存储",
+        "option_list": [
+            {
+                "option": "数据和信号"
+            },
+            {
+                "option": "程序和指令"
+            },
+            {
+                "option": "ASCII码和汉字"
+            },
+            {
+                "option": "程序和数据"
+            }
+        ],
+        "answer": "程序和数据",
+        "grade": 2
+    },
+    {
+        "test_id": 202300011,
+        "question": "SRAM存储器是",
+        "option_list": [
+            {
+                "option": "静态随机存储器"
+            },
+            {
+                "option": "静态只读存储器"
+            },
+            {
+                "option": "动态随机存储器"
+            },
+            {
+                "option": "动态只读存储器"
+            }
+        ],
+        "answer": "静态随机存储器",
+        "grade": 3
     }
 ]
